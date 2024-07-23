@@ -11,23 +11,28 @@
 
 4. [Data Sources](#data-sources).
 
-5. [Tools](#tools).
+5. [Data Sets](#data-sets)
 
-6. [Data Cleaning and Preparation](#data-cleaning-and-preparation).
+6. [Tools](#tools).
 
-7. [Exploratory Data Analysis](#exploratory-data-analysis).
+7. [Data Cleaning and Preparation](#data-cleaning-and-preparation).
 
-8. [Data Analysis](#data-analysis).
+8. [Excel Interactive Dashboard](#excel-interactive-dashboard)
 
-9. [Findings](#findings).
 
-10. [Recommendations](#recommendations).
+9. [Exploratory Data Analysis](#exploratory-data-analysis).
 
-11. [Tableau Dashboard](#tableau-dashboard)
+10. [Data Analysis](#data-analysis).
 
-12. [Limitations](#limitations).
+11. [Findings](#findings).
 
-13. [References](#references).
+12. [Recommendations](#recommendations).
+
+13. [Tableau Dashboard](#tableau-dashboard)
+
+14. [Limitations](#limitations).
+
+15. [References](#references).
 
 
 ### Project Overview
@@ -79,24 +84,26 @@ country_data: The dataset “country_data.csv” includes country-specific infor
 [Africa_economies](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/blob/main/Africa_economies.csv)
 
 
-[Country_data](
+[Country_data](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/blob/main/country_data.csv)
+
+
 ### Tools
 
--Excel- Data Cleaning[Download Here](https://www.office.com/launch/excel) 
+-Excel- Used for Data Cleaning  [Download Here](https://www.office.com/launch/excel) 
 
--postgresql- Data Analysis [Download Here](postgresql.org/download/)
+-postgresql- Used for Data Analysis  [Download Here](postgresql.org/download/)
 
--Tableau- Creating Reports [Download Here](tableau.com/products/public/download)
+-Tableau- Used for Creating Reports  [Download Here](tableau.com/products/public/download)
 
 ### Data Cleaning and Preparation
 
-During the beginning of data preparation phase,I did the following;
+During the beginning of data preparation phase,I did the following using excel;
 
 1. Data Loading and Inspecting.
 2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 
-### Excel Interactive Dasboard
+### Excel Interactive Dashboard
 
 Explore Interactive Dashbosrd here
 
