@@ -75,6 +75,9 @@ africa_economies: The dataset used for this analysis “Africa_economies.csv”.
 
 country_data: The dataset “country_data.csv” includes country-specific information such as capital cities, political stability, tax rates, climate, dominant language in the nation and key infrastructure details.
 
+### Data Sets
+[Africa_economies](
+
 ### Tools
 
 -Excel- Data Cleaning[Download Here](https://www.office.com/launch/excel) 
@@ -90,6 +93,12 @@ During the beginning of data preparation phase,I did the following;
 1. Data Loading and Inspecting.
 2. Handling Missing Values.
 3. Data Cleaning and Formatting.
+
+### Excel Interactive Dasboard
+
+Explore Interactive Dashbosrd here
+
+[download excel file](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/blob/main/Excel%20Data%20Analysis%20Dashboard%20Project.xlsx)
 
 ### Exploratory Data Analysis
 
