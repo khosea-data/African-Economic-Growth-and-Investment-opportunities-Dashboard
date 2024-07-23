@@ -1,6 +1,6 @@
 # Dashboard for Analyzing Economic Growth and Investment in Africa
 
-## Table of Contents
+## Repository Contents
 
 1. [Project Overview](#project-overview).
 
@@ -28,12 +28,14 @@
 12. [Limitations](#limitations).
 
 13. [References](#references).
+
+
 ### Project Overview
 This project offers a comprehensive analysis and interactive visualization of the economic landscape across African nations, with a special focus on how sectoral investment opportunities have contributed to GDP growth and overall economic development. By leveraging data visualization tools like Tableau and SQL for data manipulation, this project highlights the impact of key sectors such as agriculture, manufacturing, renewable energy, and technology on the economic prosperity of African countries. Through detailed datasets and insightful visualizations, we aim to provide a valuable resource for understanding the dynamics of sectoral contributions to GDP and the potential for future investments in Africa.
 
 
 
-## Objectives
+### Objectives
   -Offer a detailed view of economic and socio-political conditions in African countries.
 
 
@@ -69,7 +71,9 @@ This project offers a comprehensive analysis and interactive visualization of th
 
 africa_economies: The dataset used for this analysis “Africa_economies.csv”. Contains economic data including GDP, population, and sectoral contributions for each African country.
 
-country_info: The dataset “country_info.csv” includes country-specific information such as capital cities, political stability, tax rates, climate, and key infrastructure details.
+
+
+country_data: The dataset “country_data.csv” includes country-specific information such as capital cities, political stability, tax rates, climate, dominant language in the nation and key infrastructure details.
 
 ### Tools
 
