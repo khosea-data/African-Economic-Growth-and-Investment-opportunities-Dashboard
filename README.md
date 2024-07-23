@@ -76,8 +76,10 @@ africa_economies: The dataset used for this analysis “Africa_economies.csv”.
 country_data: The dataset “country_data.csv” includes country-specific information such as capital cities, political stability, tax rates, climate, dominant language in the nation and key infrastructure details.
 
 ### Data Sets
-[Africa_economies](
+[Africa_economies](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/blob/main/Africa_economies.csv)
 
+
+[Country_data](
 ### Tools
 
 -Excel- Data Cleaning[Download Here](https://www.office.com/launch/excel) 
