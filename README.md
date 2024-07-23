@@ -5,25 +5,29 @@
 1. [Project Overview](#project-overview).
 
 2. [Objectives](#objectives).
+
+3. [Features](#features)
    
 
-3. [Data Sources](#data-sources).
+4. [Data Sources](#data-sources).
 
-4. [Tools](#tools).
+5. [Tools](#tools).
 
-5. [Data Cleaning and Preparation](#data-cleaning-and-preparation).
+6. [Data Cleaning and Preparation](#data-cleaning-and-preparation).
 
-6. [Exploratory Data Analysis](#exploratory-data-analysis).
+7. [Exploratory Data Analysis](#exploratory-data-analysis).
 
-7. [Data Analysis](#data-analysis).
+8. [Data Analysis](#data-analysis).
 
-8. [Findings](#findings).
+9. [Findings](#findings).
 
-9. [Recommendations](#recommendations).
+10. [Recommendations](#recommendations).
 
-10. [Limitations](#limitations).
+11. [Tableau Dashboard](#tableau-dashboard)
 
-11. [References](#references).
+12. [Limitations](#limitations).
+
+13. [References](#references).
 ### Project Overview
 This project offers a comprehensive analysis and interactive visualization of the economic landscape across African nations, with a special focus on how sectoral investment opportunities have contributed to GDP growth and overall economic development. By leveraging data visualization tools like Tableau and SQL for data manipulation, this project highlights the impact of key sectors such as agriculture, manufacturing, renewable energy, and technology on the economic prosperity of African countries. Through detailed datasets and insightful visualizations, we aim to provide a valuable resource for understanding the dynamics of sectoral contributions to GDP and the potential for future investments in Africa.
 
@@ -36,8 +40,28 @@ This project offers a comprehensive analysis and interactive visualization of th
   -Support researchers, investors, and businesses in making informed decisions based on reliable data.
 
   -Enhance understanding of African economies through accessible and interactive data visualizations.
-      
 
+
+
+  ### Features
+
+  -  Country-Specific Information: Access detailed information on political stability, tax rates, climate, and infrastructure for each country. This information provides context to the economic data and helps in understanding the broader environment in which the economies operate.
+
+  -  Sectoral GDP Analysis: Examine contributions from various sectors like agriculture, manufacturing, and renewable energy. The analysis highlights the impact of different sectors on the overall GDP, showcasing key areas of economic activity and growth.
+
+   -  Excel Data Analysis: Utilize the provided Excel file for detailed data analysis and further exploration. The Excel file contains raw data that can be used for various analyses, providing a flexible tool for data-driven decision-making.
+
+
+   -  SQL Data Analysis: Perform complex queries to extract meaningful insights from the dataset. The SQL scripts included in the repository allow for detailed data manipulation and retrieval, making it easier to analyze economic trends and sectoral contributions.
+
+   -  Interactive Tableau Dashboard: Visualize key economic indicators such as GDP, population, tax rates, and more for African countries. The dashboard provide an intuitive and interactive way to explore and analyse the data.
+
+   -  Trend Analysis: Track economic growth and changes over time with historical data from 2021 to 2023. This allows for identification of trends and patterns in economic performance helping in forecasting strategic planning.
+
+
+
+
+    
 
 
 
@@ -194,6 +218,10 @@ LIMIT 1;
 6. 	Consider Financial Services Innovations: Look into fintech and expanding banking services in countries with stable economies.
 
 7. 	Diversify Investments: Spread investments across different sectors and regions to minimize risk and maximize growth potential.
+
+### Tableau Dashboard
+Explore interactive Dashboard here
+[African Economic Growth and Investment Opportunities Dashboard](https://public.tableau.com/app/profile/kim.ho2712/viz/africaneconomicdata/Dashboard1?publish=yes)
 
 
 ### Limitations.
