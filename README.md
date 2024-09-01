@@ -35,6 +35,8 @@
 15. [References](#references).
 
 
+
+
 ### Project Overview
 This project offers a comprehensive analysis and interactive visualization of the economic landscape across African nations, with a special focus on how sectoral investment opportunities have contributed to GDP growth and overall economic development. By leveraging data visualization tools like Tableau and SQL for data manipulation, this project highlights the impact of key sectors such as agriculture, manufacturing, renewable energy, and technology on the economic prosperity of African countries. Through detailed datasets and insightful visualizations, we aim to provide a valuable resource for understanding the dynamics of sectoral contributions to GDP and the potential for future investments in Africa.
 
@@ -256,4 +258,4 @@ My analysis of GDP sector contributions in African countries acknowledges some l
 [World Bank Open Data](https://data.worldbank.org)
 
 
-[OpenAI](https://www.openai.com)
+
