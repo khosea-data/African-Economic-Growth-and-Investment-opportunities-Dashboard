@@ -72,6 +72,12 @@ Reason for asking this question;Identifying the region with the higher cumulativ
 
 In order to get the insights and answers to these questions I laveraged data analysis tools EXCEL, SQL and TABLEAU which helped me get my final findings about investment opportunities in Africa.
 
+# Data Sources
+
+The primary dataset used for this analysis is the "Africa_Economies.csv" file containing detailed information about each country and sectors.
+
+
+
 # Data Collection
 
 In Data Sourcing and collection I did manual research by searching for and gathering data from different websites and public databases like WorldBank Data since complete dataset was not readily available. I manually researched and recorded each piece of data by ensuring accuracy and reliability of the information by cross-referrencing different sources. Inputing data into Excel, I entered each data point manually ensuring that the information was organized correctly. This involved creating columns for different variables for example country, region, agriculture, renewable energy and filling in each row with the appropriate data. I structured the data in tabular format where each row represented a specific entry and each column represented a variable or a parameter.
@@ -80,6 +86,8 @@ In Data Sourcing and collection I did manual research by searching for and gathe
 
 
 ## EXCEL
+download [here](https://www.microsoft.com/en/microsoft-365/excel)
+
 
 I chose Excel for this project because it is a versatile and accessible tool that offers powerful features for data Exploration, Cleaning and Visualization. With Pivot tables I was able to summarize and analyze the data quickly by creating visualizations that enabled me to present my findings in a clear and impactful way making it easy to communicate insights that can be understood by  both technical and non technical individuals.
 
@@ -129,7 +137,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ## sql (postgresql)
 
-
+download [here](https://www.postgresql.org/download/)
 
 I chose SQL as a tool for my project because it allowed me to write custom queries to efficiently extract, manipulate and aggregate data from the table, sql provided scalability and flexibility I needed to derive meaningful insights.
 
@@ -206,6 +214,8 @@ LIMIT 1;
 
 
 ## TABLEAU
+
+download [here](https://public.tableau.com/en-us/s/)
 
 Finally I used Tableau to create reports and visualizations to communicate the insights in a easy manner that can be easily understood by both technical and non technical investors who want to get into the African countries growing markets for investment options and growth of Businesses.
 
