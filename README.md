@@ -275,9 +275,9 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 3. 	Explore Regional Opportunities:
     
-   .     Northern Africa: Major opportunities in agriculture and renewable energy, oil and gas Telecommunicatioin and banking.
+   .     Northern Africa: Major opportunities in agriculture and renewable energy, oil and gas, Telecommunicatioin and banking.
    	
-   .     Western Africa: Promising for agriculture, Fishing and Marime, Infrustructure, Healthcare and Pharmaceuticals and renewable energy.
+   .     Western Africa: Promising for agriculture, Fishing, Infrustructure, Healthcare and Pharmaceuticals and renewable energy.
    	
    .     Eastern Africa: Growing potential in renewable energy and infrastructure, Technology, Fintech, Healthcare and Pharmaceuticals and Shipping.
    	
