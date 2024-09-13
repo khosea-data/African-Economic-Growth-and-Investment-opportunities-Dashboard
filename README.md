@@ -6,14 +6,14 @@
 
 2. [Data Sources](#data-sources).
 
-3. [Data Collection](data-collection)
+3. [Data Collection](#data-collection)
    
 
 4. [Data Analysis Tools that I used](#data-analysis-tools-that-i-used).
 
 5. [Excel](#excel)
 
-6. [sql (postgresql)](#sql (postgresql)).
+6. [SQL (postgresql)](#sql (postgresql)).
 7. [TABLEAU](#tableau)
 
    
