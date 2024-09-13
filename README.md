@@ -121,9 +121,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ![image](https://github.com/user-attachments/assets/2847965a-feb1-4e8b-bb7b-34fb2539c5de)
 
-#### To check the intractive dashboard click on the link below,
-
-##### [Excel interactive dashboard](C:\Users\hosea\Downloads\African Countries Economy investment opportunities analysis Dashboard.xlsx)
+### Kindly Find the Interactive Dashboard on the files that i have uploaded for more visualization.
 
 
 ## sql (postgresql)
