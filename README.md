@@ -15,20 +15,20 @@
 
 6. [Tools](#tools).
 
-7. [Data Cleaning and Preparation](#data-cleaning-and-preparation).
+   
 
-8. [Excel Interactive Dashboard](#excel-interactive-dashboard)
+   
 
 
-9. [Exploratory Data Analysis](#exploratory-data-analysis).
+9. 
 
-10. [Data Analysis](#data-analysis).
+10. 
 
 11. [Findings](#findings).
 
 12. [Recommendations](#recommendations).
 
-13. [Tableau Dashboard](#tableau-dashboard)
+13. 
 
 14. [Limitations](#limitations).
 
@@ -301,21 +301,6 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 7. 	Diversify Investments: Spread investments across different sectors and regions to minimize risk and maximize growth potential.
 
- ## DATA SETS
-
- I used the data sets named below that I have uploaded on the file of this repository.
-
- Africa_economies.csv
- Country_data.csv
-
-
-
-
-
-
-### Tableau Dashboard
-Explore interactive Dashboard here
-[African Economic Growth and Investment Opportunities Dashboard](https://public.tableau.com/app/profile/kim.ho2712/viz/africaneconomicdata/Dashboard1?publish=yes)
 
 
 ### Limitations.
