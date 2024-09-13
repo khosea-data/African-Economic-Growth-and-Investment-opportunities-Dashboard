@@ -6,7 +6,7 @@ Botswana,Southern Africa,Gaborone,Good,Low,Sir Seretse Khama International Airpo
 Burkina Faso,Western Africa,Ouagadougou,Fair,Low,Ouagadougou Airport,Ouagadougou Dry Port,Inland Port,Hot,French
 Burundi,Eastern Africa,Bujumbura,Fair,Low,Bujumbura International Airport,Port of Bujumbura,Sea Port,Moderate,English
 Cape Verde,Western Africa,Praia,Good,Low,Nelson Mandela International Airport,Port of Praia,Sea Port,Moderate,Portuguese
-Cameroon,Middle Africa,Yaoundé,Fair,Moderate,Douala International Airport,Port of Douala,Sea Port,Moderate,French
+Cameroon,Middle Africa,YaoundÃ©,Fair,Moderate,Douala International Airport,Port of Douala,Sea Port,Moderate,French
 Central African Republic,Middle Africa,Bangui,Fair,High,Bangui M'Poko International Airport,Port of Bangui,Inland Port,Tropical,French
 Chad,Middle Africa,N'Djamena,Fair,High,N'Djamena International Airport,Port of N'Djamena,Inland Port,Hot,French
 Comoros,Eastern Africa,Moroni,Good,Low,Prince Said Ibrahim International Airport,Port of Moroni,Sea Port,Tropical,French
@@ -30,7 +30,7 @@ Liberia,Western Africa,Monrovia,Good,Low,Roberts International Airport,Port of M
 Libya,Northern Africa,Tripoli,Fair,High,Mitiga International Airport,Port of Tripoli,Sea Port,Hot,Arabic
 Madagascar,Eastern Africa,Antananarivo,Fair,Moderate,Ivato International Airport,Port of Toamasina,Sea Port,Tropical,French
 Malawi,Eastern Africa,Lilongwe,Fair,Low,Kamuzu International Airport,Port of Nacala,Sea Port,Moderate,English
-Mali,Western Africa,Bamako,Fair,Low,Bamako-Sénou International Airport,Bamako Inland Port,Inland Port,Hot,French
+Mali,Western Africa,Bamako,Fair,Low,Bamako-SÃ©nou International Airport,Bamako Inland Port,Inland Port,Hot,French
 Mauritania,Western Africa,Nouakchott,Fair,Low,Nouakchott-Oumtounsy International Airport,Port of Nouakchott,Sea Port,Hot,Arabic
 Mauritius,Eastern Africa,Port Louis,Good,Moderate,Sir Seewoosagur Ramgoolam International Airport,Port Louis Harbour,Sea Port,Moderate,English
 Morocco,Northern Africa,Rabat,Fair,High,Mohammed V International Airport,Port of Casablanca,Sea Port,Moderate,Arabic
@@ -39,7 +39,7 @@ Namibia,Southern Africa,Windhoek,Good,Low,Hosea Kutako International Airport,Wal
 Niger,Western Africa,Niamey,Fair,Low,Diori Hamani International Airport,Niamey Dry Port,Inland Port,Hot,French
 Nigeria,Western Africa,Abuja,Fair,Moderate,Nnamdi Azikiwe International Airport,Lagos Port Complex,Sea Port,Tropical,English
 Rwanda,Eastern Africa,Kigali,Good,Moderate,Kigali International Airport,Port of Kigali,Inland Port,Moderate,English
-Sao Tome and Principe,Middle Africa,São Tomé,Good,Low,São Tomé International Airport,Port of São Tomé,Sea Port,Tropical,Portuguese
+Sao Tome and Principe,Middle Africa,SÃ£o TomÃ©,Good,Low,SÃ£o TomÃ© International Airport,Port of SÃ£o TomÃ©,Sea Port,Tropical,Portuguese
 Senegal,Western Africa,Dakar,Good,Moderate,Blaise Diagne International Airport,Port of Dakar,Sea Port,Tropical,French
 Seychelles,Eastern Africa,Victoria,Good,Low,Seychelles International Airport,Port Victoria,Sea Port,Tropical,English
 Sierra Leone,Western Africa,Freetown,Good,Low,Lungi International Airport,Port of Freetown,Sea Port,Tropical,English
@@ -48,8 +48,8 @@ South Africa,Southern Africa,Pretoria,Good,Moderate,O.R. Tambo International Air
 South Sudan,Eastern Africa,Juba,Fair,High,Juba International Airport,Port of Sudan,Sea Port,Hot,English
 Sudan,Northern Africa,Khartoum,Fair,Moderate,Khartoum International Airport,Port Sudan,Sea Port,Hot,Arabic
 Tanzania,Eastern Africa,Dodoma,Good,Moderate,Julius Nyerere International Airport,Port of Dar es Salaam,Sea Port,Moderate,English
-Togo,Western Africa,Lomé,Good,Low,Gnassingbé Eyadéma International Airport,Lomé Container Terminal,Sea Port,Moderate,French
-Tunisia,Northern Africa,Tunis,Good,Moderate,Tunis–Carthage International Airport,Port of Rades,Sea Port,Moderate,Arabic
+Togo,Western Africa,LomÃ©,Good,Low,GnassingbÃ© EyadÃ©ma International Airport,LomÃ© Container Terminal,Sea Port,Moderate,French
+Tunisia,Northern Africa,Tunis,Good,Moderate,Tunisâ€“Carthage International Airport,Port of Rades,Sea Port,Moderate,Arabic
 Uganda,Eastern Africa,Kampala,Good,Low,Entebbe International Airport,Port Bell,Inland Port,Moderate,English
 Zambia,Eastern Africa,Lusaka,Fair,Low,Harry Mwanga Nkumbula International Airport,Port of Lusaka,Inland Port,Tropical,English
-Zimbabwe,Eastern Africa,Harare,Fair,Low,Robert Gabriel Mugabe International Airport,Port of Beira,Sea Port,Tropical,English
+Zimbabwe,Eastern Africa,Harare,Good,Low,Robert Gabriel Mugabe International Airport,Port of Beira,Sea Port,Tropical,English
