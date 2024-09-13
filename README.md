@@ -4,16 +4,17 @@
 
 1. [Project Overview](#project-overview).
 
-2. [Objectives](#objectives).
+2. [Data Sources](#data-sources).
 
-3. [Features](#features)
+3. [Data Collection](data-collection)
    
 
-4. [Data Sources](#data-sources).
+4. [Data Analysis Tools that I used](#data-analysis-tools-that-i-used).
 
-5. [Data Sets](#data-sets)
+5. [Excel](#excel)
 
-6. [Tools](#tools).
+6. [sql (postgresql)](#sql (postgresql)).
+7. [TABLEAU](#tableau)
 
    
 
