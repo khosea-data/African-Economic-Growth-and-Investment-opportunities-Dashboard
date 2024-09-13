@@ -292,9 +292,9 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 7. 	Diversify Investments: Spread investments across different sectors and regions to minimize risk and maximize growth potential.
 
  ## DATA SETS
- [African Countries' Sectoral GDP contribution Dataset](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/commit/3e3c8f9e6ff96689901faaf4a2bf669425222dd6)
+ [African Countries' Sectoral GDP contribution Dataset]
 
-[Country_Data](https://github.com/khosea-data/African-Economic-Growth-and-Investment-opportunities-Dashboard/commit/fa567deb9330ddc2ad68f23ec0d5f92a2d65d363)
+[Country_Data]
 
 
 
