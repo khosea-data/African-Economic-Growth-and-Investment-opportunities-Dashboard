@@ -124,7 +124,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 #### To check the intractive dashboard click on the link below,
 
-##### [Excel interactive dashboard](
+##### [Excel interactive dashboard](C:\Users\hosea\Downloads\African Countries Economy investment opportunities analysis Dashboard.xlsx)
 
 
 ## sql (postgresql)
@@ -292,9 +292,11 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 7. 	Diversify Investments: Spread investments across different sectors and regions to minimize risk and maximize growth potential.
 
  ## DATA SETS
- [African Countries' Sectoral GDP contribution Dataset]
 
-[Country_Data]
+ I used the data sets named below that I have uploaded on the file of this repository.
+
+ Africa_economies.csv
+ Country_data.csv
 
 
 
