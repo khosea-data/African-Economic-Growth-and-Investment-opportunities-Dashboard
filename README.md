@@ -14,26 +14,16 @@
 5. [Excel](#excel)
 
 6. [SQL (postgresql)](#sql (postgresql)).
+   
 7. [TABLEAU](#tableau)
+ 
+8.   [Findings](#findings).
 
-   
+9. [Recommendations](#recommendations).
 
-   
+10. [Limitations](#limitations).
 
-
-9. 
-
-10. 
-
-11. [Findings](#findings).
-
-12. [Recommendations](#recommendations).
-
-13. 
-
-14. [Limitations](#limitations).
-
-15. [References](#references).
+11. [References](#references).
 
 
 
