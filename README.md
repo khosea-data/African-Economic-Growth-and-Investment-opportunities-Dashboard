@@ -104,23 +104,28 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
 
-![image](https://github.com/user-attachments/assets/8e1ebc17-e923-4852-986c-f4546bf4b44f)
+![image](https://github.com/user-attachments/assets/bb262c75-a0cd-4941-897e-9a3e9a566c3a)
+
 ### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
 
-![image](https://github.com/user-attachments/assets/e418c67d-ff72-4fc6-9c1c-86579f5cdb73)
+![image](https://github.com/user-attachments/assets/5f9f1141-6f1c-4307-a4ec-727960f98a99)
+
 
 ### A line graph of GDP growth of Top 5 countries from 2021 to 2023, Algeria and Cameroon have experienced high economic growth in between the years as shown by their rise in GDP while Nigeria, South Africa and Egypt have shown slow economic growth in between the years as shown by their slight increase in the GDP.
 
-![image](https://github.com/user-attachments/assets/2754eb95-4543-4ecd-bd3a-511f32f0ef67)
-
-### A pie chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
-
-![image](https://github.com/user-attachments/assets/a13d90f9-b012-4c86-bcca-ea0f3c830fda)
+![image](https://github.com/user-attachments/assets/4a707e88-10d4-4b95-8da6-2d956e3e575c)
 
 
-### A line graph of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
+### A horizontal bar chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
 
-![image](https://github.com/user-attachments/assets/2847965a-feb1-4e8b-bb7b-34fb2539c5de)
+![image](https://github.com/user-attachments/assets/e8e15715-6617-4480-b7fd-88c342d25a61)
+
+
+### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
+
+![image](https://github.com/user-attachments/assets/03759c0f-a5c7-4abb-8ae5-c3c84691e39d)
+
+
 
 ### Kindly Find the Interactive Dashboard on the files that i have uploaded for more visualization.
 
