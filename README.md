@@ -125,7 +125,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
 
-![image](https://github.com/user-attachments/assets/bb262c75-a0cd-4941-897e-9a3e9a566c3a)
+![image](https://github.com/user-attachments/assets/7021df97-4c15-457a-9b99-87b42704db45)
 
 ### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
 
@@ -134,7 +134,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ### A line graph of GDP growth of Top 5 countries from 2021 to 2023, Algeria and Cameroon have experienced high economic growth in between the years as shown by their rise in GDP while Nigeria, South Africa and Egypt have shown slow economic growth in between the years as shown by their slight increase in the GDP.
 
-![image](https://github.com/user-attachments/assets/4a707e88-10d4-4b95-8da6-2d956e3e575c)
+![image](https://github.com/user-attachments/assets/942055c5-7958-4b26-835f-9a399bd531dd)
 
 
 ### A horizontal bar chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
@@ -144,7 +144,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
 
-![image](https://github.com/user-attachments/assets/03759c0f-a5c7-4abb-8ae5-c3c84691e39d)
+![image](https://github.com/user-attachments/assets/627e3b5d-774b-483e-90ed-d7c2ac75b45d)
 
 
 
@@ -248,12 +248,13 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 
 #### The Map Chart below gives report of the question about which country had the highest GDP 2023, in the map the coloring indicates the GDP of each country the darker the color indicates the highest GDP which is clearly shown that Algeria was the country with the highest GDP as of 2023 reports because the color in algeria is darker followed by Nigeria closely.
-![gdp 2023 african countries](https://github.com/user-attachments/assets/bca5a9c6-2b86-41eb-9a82-80cdfcb1d910)
+![Screenshot (19)](https://github.com/user-attachments/assets/d7926bd9-3f42-4601-911e-4d124d9b52a5)
 
 
 #### The Bar Chart below shows  the report of regional cumulative GDP of 2023 that has been recorded for the past three years 2021,2022,2023 and the report shows that Northen Africa Region is the one with the highest cumulative GDP as of 2023.
 
-![2023 regional cumulative GDP](https://github.com/user-attachments/assets/f7fabb58-9b82-4b89-8dce-de3f2cbc96c9)
+![Screenshot (22)](https://github.com/user-attachments/assets/a16b1736-21b1-4bf1-b6f5-7c3c5e0441ec)
+
 
 
 #### The Chart below indicates sectoral GDP  contribution in each country where the focus was on which sector has contributed highest to the GDP of the country as of 2023 and for this case we have for Nigeria where it can be clearly seen that Agriculture is the sector that has immense support and contribution to the GDP of the country as of 2023.
@@ -263,12 +264,12 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 #### The packed Bubbles chart below gives a detailed report of regional agricultural contribution to the GDP of different regions of African continent, from the report it can be seen that Western Africa region is the leading in terms of GDP contribution followed by Eastern , Middle , Northen then lastly southern africa region has the lowest contribution of Agriculture towards the GDP maybe due to the hot climates of the southern Hemisphere.
 
-![Agricultural GDP contribution](https://github.com/user-attachments/assets/74ffad7f-6410-4b9b-b43d-09c9da45316a)
+![Screenshot (25)](https://github.com/user-attachments/assets/4074f25c-cffa-4c9b-9588-a91d426106a0)
 
 
 #### Tree map below brings the reports of the contribution of Renewable Energy regionally where it can be seen that North Africa region is the leading in terms of renewable energy sectors followed closely by central then west then south and finally eastern Africa region being the lowest indicating any investments related to renewable energy should be tied to Northen Africa to realise a positive growth in the Business.
 
-![Renewable energy contribution regionally](https://github.com/user-attachments/assets/622f9f6d-a8ec-4421-835e-e22c62d20cbb)
+![Screenshot (21)](https://github.com/user-attachments/assets/12299d89-650c-4939-9b11-4f4bc6501e9e)
 
 
 #### The Scatter plot below shows the correlation between population in African countries and cumulative GDP of each country where we can clearly see that countries with a higher population have a higher cumulative GDP. This is so important because for investors and businessmen may chooose countries with higher population because there is available market and also availability of labor which will make business operations easy.
@@ -278,6 +279,11 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 ### The Scatter plot below shows the correlation between Geographical area coverage and Total Cumulative GDP of each country. From the scatter plot we can see that there are some countries with larger area coverage but wiith a lower cumulative GDP and others with large coverage with a significantly higher GDP, this helps investors to decide which areas they can start their businesses in maybe based on region or even geopolitical issues in the country but mostly they need to invest in countries with large area coverage because of availability of space which will help in future expansion.
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/27997872-241e-40cc-883c-b2e42b543c2e)
+
+### The following is a picture of the final interactive dashboard I created using Tableau.
+
+![Screenshot (26)](https://github.com/user-attachments/assets/79dc52ff-2626-4010-aafa-a95c635852a5)
+
 
 #### Below is a Link to the interactive dashboard that I have Published in Tableau Public where more reports for individual sets can be got.
 #### [TABLEAU INTERACTIVE DASHBOARD FOR AFRICAN COUNTRIES' ECONOMY AND INVESTMENT OPPORTUNITIES ANALYSIS](https://public.tableau.com/app/profile/kim.ho2712/viz/AFRICANCOUNTRIESECONOMYANALYSIS/Dashboard1?publish=yes)
