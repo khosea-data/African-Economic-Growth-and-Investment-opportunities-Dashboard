@@ -59,9 +59,30 @@ Reason for this Question; Renewable Energy is a fast-growing sector in Africa es
 
 #### 6)Which regions has the highest cumulative GDP as of 2023?
 
-Reason for asking this question;Identifying the region with the higher cumulative GDP as of 2023 helps businesses prioritize regions for market entry and expansion.
+Reason for this question;Identifying the region with the higher cumulative GDP as of 2023 helps businesses prioritize regions for market entry and expansion.
 
 In order to get the insights and answers to these questions, I laveraged the following data analysis tools EXCEL, SQL and TABLEAU which helped me get my final findings about investment opportunities in Africa.
+
+
+### 7) How does population of each country correlate with cumulative GDP contribution between 2021 and 2023?
+
+Reason for this question; knowing the relationship between the population and cumulative GDP will help business people and investors to choose which countries to invest in based on available market and potential labor for their businesses to run.
+
+In order to get the insights I decided to plot a scatter plot using Tableau where I was able to derive the insights and get my final conclusions.
+
+### 8) How does Geographical area coverage of each country correlate with total cumulative GDP?
+
+Reason for this question is that it will give some insights whether countries that have large area coverage may have high GDP   as compared to those with small area coverage since potentially areas with large coverage may have more resources and may also provide room for expansion of business and investment especially in areas of Agriculture.
+
+In order to get my insights I utilised Tableau to plot a scatter plot where it gave me a clear findings based on the question.
+
+
+
+
+
+
+
+
 
 # Data Sources
 
@@ -237,7 +258,7 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 #### The Chart below indicates sectoral GDP  contribution in each country where the focus was on which sector has contributed highest to the GDP of the country as of 2023 and for this case we have for Nigeria where it can be clearly seen that Agriculture is the sector that has immense support and contribution to the GDP of the country as of 2023.
 
-![sectoral GDP contribution of each country](https://github.com/user-attachments/assets/6fc223f0-8219-4788-92a5-62ccc897f9dd)
+![Screenshot (13)](https://github.com/user-attachments/assets/496c463f-c86d-4533-a07e-523f143fc20b)
 
 
 #### The packed Bubbles chart below gives a detailed report of regional agricultural contribution to the GDP of different regions of African continent, from the report it can be seen that Western Africa region is the leading in terms of GDP contribution followed by Eastern , Middle , Northen then lastly southern africa region has the lowest contribution of Agriculture towards the GDP maybe due to the hot climates of the southern Hemisphere.
@@ -249,6 +270,14 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 ![Renewable energy contribution regionally](https://github.com/user-attachments/assets/622f9f6d-a8ec-4421-835e-e22c62d20cbb)
 
+
+#### The Scatter plot below shows the correlation between population in African countries and cumulative GDP of each country where we can clearly see that countries with a higher population have a higher cumulative GDP. This is so important because for investors and businessmen may chooose countries with higher population because there is available market and also availability of labor which will make business operations easy.
+![Screenshot (18)](https://github.com/user-attachments/assets/10908e60-a926-4765-ac49-b6e47e06fb08)
+
+
+### The Scatter plot below shows the correlation between Geographical area coverage and Total Cumulative GDP of each country. From the scatter plot we can see that there are some countries with larger area coverage but wiith a lower cumulative GDP and others with large coverage with a significantly higher GDP, this helps investors to decide which areas they can start their businesses in maybe based on region or even geopolitical issues in the country but mostly they need to invest in countries with large area coverage because of availability of space which will help in future expansion.
+
+![Screenshot (17)](https://github.com/user-attachments/assets/27997872-241e-40cc-883c-b2e42b543c2e)
 
 #### Below is a Link to the interactive dashboard that I have Published in Tableau Public where more reports for individual sets can be got.
 #### [TABLEAU INTERACTIVE DASHBOARD FOR AFRICAN COUNTRIES' ECONOMY AND INVESTMENT OPPORTUNITIES ANALYSIS](https://public.tableau.com/app/profile/kim.ho2712/viz/AFRICANCOUNTRIESECONOMYANALYSIS/Dashboard1?publish=yes)
@@ -270,6 +299,9 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 6. Northen Africa has the highest GDP contribution for the year 2023 with a total GDP of 1.33980 trillion Dollars.
 
+7. Countries that have a higher population are showing a higher economic growth as it is denoted by a higher cumulative GDP.
+
+8. Countries with a larger geographical area coverage are showing a significant higher cumulative GDP therefore showing a fast economic growth.
 
 ### Recommendations
 
@@ -296,7 +328,9 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 7. 	Diversify Investments: Spread investments across different sectors and regions to minimize risk and maximize growth potential.
 
+8.   Focus on areas with a higher population because there will be potential readily available market and also source of labor that will actually expedite the operations of the business hence bringing more return.
 
+9.   Put into consideration countries with larger geographical area because this will help for future expansion especially if you are getting into agriculture where you may need a larger piece of land for farming and growing crops.
 
 ### Limitations.
 
