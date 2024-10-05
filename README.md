@@ -125,7 +125,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
 
-![image](https://github.com/user-attachments/assets/7021df97-4c15-457a-9b99-87b42704db45)
+![image](https://github.com/user-attachments/assets/f26ae48b-dc72-4986-82a6-f2248ee7c5e6)
 
 ### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
 
@@ -144,7 +144,10 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 ### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
 
-![image](https://github.com/user-attachments/assets/627e3b5d-774b-483e-90ed-d7c2ac75b45d)
+![image](https://github.com/user-attachments/assets/33746f50-9f9e-4f17-9121-976f906908b5)
+
+### The following is an image of how the final interactive dashboard looks like.
+![Screenshot (29)](https://github.com/user-attachments/assets/28cda1d6-240b-4760-8649-0e686c369d88)
 
 
 
