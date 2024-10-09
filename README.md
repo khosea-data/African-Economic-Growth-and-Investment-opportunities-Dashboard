@@ -48,6 +48,11 @@ To assess which countries are ideal for investment, I analyzed the GDP contribut
 
 Furthermore, I grouped the countries into regions to determine which parts of Africa present the best investment potential. Regions with higher contributions from specific sectors signal areas suitable for growth and investment opportunities.
 
+![Screenshot (40)](https://github.com/user-attachments/assets/cab71aeb-23f9-4cab-a1fc-6304f318a787)
+
+
+
+
 ## Business Questions
 
 
@@ -56,6 +61,9 @@ Furthermore, I grouped the countries into regions to determine which parts of Af
 #### Reason for asking this question;
 
  Identifying the country with the highest GDP highlights potential markets for investment, reflecting economic size and strength, and indicating opportunities for expansion.
+
+
+
 
 ### 2) How does the GDP of the top 5 African economies have changed from 2021 to 2023?
 
@@ -130,41 +138,85 @@ I did the following using Excel in preparation of the data for Analysing
 
 I used conditional formating to highlight missing values and selected Blanks. I deleted some of the missing values after filtering them. I also filled some missing values with appropriate data based on the collection.
 
+![Screenshot (34)](https://github.com/user-attachments/assets/e5815c51-faee-4e07-848c-e8426955cae3)
+
 #### Data Cleaning
 
 I did data cleaning by removing duplicates using the remove duplicates option in the data tab. I standardized the data by changing the text cases using UPPER for upper case LOWER for lower case and PROPER to make the first letter to be in upper case. I also did CONCATENATION to combine texts especially in countries and those that had splitted during entry, I also did splitting using text to columns in data tab and finally I did data types conversion by using the excel inbuilt power query.
+![Screenshot (35)](https://github.com/user-attachments/assets/c9c83431-c846-47b6-abbf-03cd0f7e4eca)
+
+## 
+
+![Screenshot (37)](https://github.com/user-attachments/assets/19411d8d-38a3-4d8c-89f6-75b0fdec10c6)
+
+## 
+
+![Screenshot (38)](https://github.com/user-attachments/assets/9d821eec-a1ae-4c2f-b09b-e85d52a7561a)
+
+##
+
+![Screenshot (39)](https://github.com/user-attachments/assets/abb37bd1-9d42-48c2-a59c-0eec2159d235)
 
 #### Data Formating
 
 I did data Formating to improve readability and usability of the data where I did number formating for currencies and putting them in $ dollar form together with custom to large numbers which was specifically Billions.
 
 Finally I used Excel Pivot tables to do quick summary to allow flexibility in analysis, I also created reports using Pivot charts and included use of slicers for interactive data exploration where I can quickly narrow down results to a specific region and country, through this I was able to make it easier to analyse and draw insights from my data. I was able to create a dashboard where I joined all the pivot charts and applied the slicer to connect to all charts for easy analysis and reporting. 
+# 
+
+![Screenshot (41)](https://github.com/user-attachments/assets/7174c0f6-63f4-4aea-9b56-f579e75094f4)
+
+
+
 
 Below are some of the Visualizations that I made using pivot charts to communicate insights.
 
 
-## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
 
 ![image](https://github.com/user-attachments/assets/f26ae48b-dc72-4986-82a6-f2248ee7c5e6)
 
-### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
+
+## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
+
+
+
 
 ![image](https://github.com/user-attachments/assets/5f9f1141-6f1c-4307-a4ec-727960f98a99)
 
 
-### A line graph of GDP growth of Top 5 countries from 2021 to 2023, Algeria and Cameroon have experienced high economic growth in between the years as shown by their rise in GDP while Nigeria, South Africa and Egypt have shown slow economic growth in between the years as shown by their slight increase in the GDP.
+
+### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
+
+
 
 ![image](https://github.com/user-attachments/assets/942055c5-7958-4b26-835f-9a399bd531dd)
 
+### A line graph of GDP growth of Top 5 countries from 2021 to 2023, Algeria and Cameroon have experienced high economic growth in between the years as shown by their rise in GDP while Nigeria, South Africa and Egypt have shown slow economic growth in between the years as shown by their slight increase in the GDP.
 
-### A horizontal bar chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
+
+
+
 
 ![image](https://github.com/user-attachments/assets/e8e15715-6617-4480-b7fd-88c342d25a61)
 
 
-### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
+### A horizontal bar chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/33746f50-9f9e-4f17-9121-976f906908b5)
+
+
+### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
+
+
+
+
+Finally I used Excel Pivot tables to do quick summary to allow flexibility in analysis, I also created reports using Pivot charts and included use of slicers for interactive data exploration where I can quickly narrow down results to a specific region and country, through this I was able to make it easier to analyse and draw insights from my data. I was able to create a dashboard where I joined all the pivot charts and applied the slicer to connect to all charts for easy analysis and reporting. 
+# 
 
 ### The following is an image of how the final interactive dashboard looks like.
 ![Screenshot (29)](https://github.com/user-attachments/assets/28cda1d6-240b-4760-8649-0e686c369d88)
