@@ -1,6 +1,6 @@
-# Dashboard for Analyzing Economic Growth and Investment opportunities in African Countries 2024
+# Unlocking Investment potential: Analyzing key growth sectors in African countries.
 
-## Repository Contents
+## Project Contents
 
 1. [Project Overview](#project-overview).
 
@@ -26,80 +26,100 @@
 11. [References](#references).
 
 
+##  Why this Project?
+
+I chose to undertake this project with the specific goal of helping entrepreneurs and investors who are looking to expand their ambitions into African markets. In the face of rising global financial pressures and increasing inflation rates, many businesses are seeking to diversify their investments as a way to mitigate risk and drive sustainable growth. By expanding into various sectors and regions, companies can better adapt to changing economic conditions and secure long-term success.
+
+Leveraging data analysis, this project aims to uncover promising markets and investment opportunities in African countries. The analysis will focus on identifying high-growth sectors that provide valuable opportunities for diversification, allowing companies and startups to enhance their portfolios while focusing on the dynamic economic landscape of the continent.
+
+
+
+
+
+
 
 
 ### Project Overview
-Due to current rise in global finance and increase in inflation rates all over the world,individual entrepreneurs, businesses and companies have opted to spread their risks by diversifying to various sectors in order to protect themselves from going bankrupt by depending on one source of income and for this reason I have laveraged data analysis to find markets and investment opportunities that companies and startups may get into to diversify their investment portfolios. In this project I have particularly chosen African nations where markets are still young and fast growing to investigate which sectors are suitable for investment and provide hope for future growth and also which countries are suitable for investing in various sectors. To get these insights I had to dive into knowing the 2023 GDP contribution of each sector of economy in different African countries because GDP contribution of a sector is a suitable indicator of whether there is growth which is signified by high contribution of the sector or whether there is stagnation signified by low contribution of the sector towards the overall GDP of the country, this will help investors and other entrepreneurs to get to know which sectors are suitable for investing. In order to understand which country is suitable, I used the GDP contribution of the past 3 years 2021,2022 and 2023 of each country in order to understand which countries are experiencing economic growth which is signified by a high GDP which might be a suitable place for investing in because a higher GDP of a nation indicates a growing economy which possibly provides a suitable environment for investors to look for opportunities and invest in the country while experiencing a positive growth in their businesses. I also grouped the countries into regions in order to know which regions are suitable for investment in Africa where the higher contribution of certain sector in a region indicates a suitable market and opportunities for investment growth. This project is important because it will help investors, entrepreneurs and startups who wish to get into African market which is growing so fast due to it's population increase to pinpoint those suitable sectors and countries where they can diversify into and grow their investment portfolio for their growth. It also helps for those who are planning for future investments to get more insights on how the market will be and how the current growth will influence the future growth of certain sectors. In order to accomplish this goal I came up with the following Business questions that will enable me get the insights and have the best suitable decisions about investing in Africa.
+In this project, I analyzed 54 African nations with young and rapidly growing markets to determine which sectors offer the best opportunities for investment and future growth. Additionally, I explored which countries are most favorable for investing in various sectors.
+
+To gain these insights, I focused on the 2023 GDP contribution of each economic sector across different African countries. Sectoral GDP contribution serves as a key indicator of growth, with higher contributions signaling thriving sectors and lower contributions suggesting stagnation. This information provides entrepreneurs and investors with a clear understanding of which sectors are most promising for investment.
+
+To assess which countries are ideal for investment, I analyzed the GDP contributions over the past three years (2021, 2022, and 2023) to identify nations experiencing sustained economic growth. A rising GDP typically reflects a growing economy, offering a more favorable environment for business expansion and investment opportunities.
+
+Furthermore, I grouped the countries into regions to determine which parts of Africa present the best investment potential. Regions with higher contributions from specific sectors signal areas suitable for growth and investment opportunities.
+
+## Business Questions
 
 
-#### 1)Which country has the highest GDP in 2023?
+### 1) Which country has the highest GDP in 2023?
 
-Reason for asking this question; Understanding which country had the highest GDP contribution indicates large economic size which helps to identify potential markets for investment or expansion, it also indicates economic power and potential for regional investment.
+#### Reason for asking this question;
 
+ Identifying the country with the highest GDP highlights potential markets for investment, reflecting economic size and strength, and indicating opportunities for expansion.
 
-#### 2)How does the GDP of the top 5 African economies have changed from 2021 to 2023?
+### 2) How does the GDP of the top 5 African economies have changed from 2021 to 2023?
 
-Reason for asking this question; This helps in analysing growth trajectory of leading economies highlighting which countries are expanding faster or which may be facing economic stagnation.
-
-
-#### 3)Which sector contributes the most to the GDP in each country?
-
-Reason for this Question; Identifying the dominant sectors provides insights into the economic drivers of each country helping business focus on industry specific strategies for market entry.
+#### Reason for asking this question;
+Analyzing the GDP changes of the top 5 economies reveals growth changes, highlighting which countries are expanding rapidly, which may be facing stagnation, and identifying potential investment opportunities in fast-growing markets.
 
 
-#### 4)How does the contribution of agriculture sector to GDP vary across region?
+### 3) Which sector contributes the most to the GDP in each country?
 
-Reason for this Question; Agriculture plays a crucial role in many African countries especially in rural areas, understanding its contribution helps target investments,aid and innovation in those areas.
+#### Reason for this Question;
+Identifying the top contributing sectors reveals the key economic drivers in each country, enabling businesses to develop industry-specific strategies for market entry and investment opportunities
+
+#### 4) How does the contribution of agriculture sector to GDP vary across region?
+
+#### Reason for this Question;
+Agriculture plays a crucial role in many African countries especially in rural areas, understanding its contribution helps target investments and innovation in those areas.
 
 
-#### 5)What is the total contribution of Renewable Energy to GDP in each region?
+### 5) What is the total contribution of Renewable Energy to GDP in each region?
 
-Reason for this Question; Renewable Energy is a fast-growing sector in Africa especially in countries aiming to diversify their energy mix. Understanding its contribution to GDP can highlight growth markets.
+#### Reason for this Question;
+Renewable Energy is a fast-growing sector in Africa especially in countries aiming to diversify their energy portfolio. Understanding its contribution to GDP can highlight growth markets.
 
 
-#### 6)Which regions has the highest cumulative GDP as of 2023?
+### 6) Which regions has the highest cumulative GDP as of 2023?
 
-Reason for this question;Identifying the region with the higher cumulative GDP as of 2023 helps businesses prioritize regions for market entry and expansion.
-
-In order to get the insights and answers to these questions, I laveraged the following data analysis tools EXCEL, SQL and TABLEAU which helped me get my final findings about investment opportunities in Africa.
+#### Reason for this question;
+Identifying the region with the higher cumulative GDP as of 2023 helps businesses prioritize regions for market entry and expansion.
 
 
 ### 7) How does population of each country correlate with cumulative GDP contribution between 2021 and 2023?
 
-Reason for this question; knowing the relationship between the population and cumulative GDP will help business people and investors to choose which countries to invest in based on available market and potential labor for their businesses to run.
-
-In order to get the insights I decided to plot a scatter plot using Tableau where I was able to derive the insights and get my final conclusions.
+#### Reason for this question;
+ Understanding the relationship between population and cumulative GDP helps businesses and investors identify which countries offer sufficient market size and potential labor resources for successful investment and operations.
 
 ### 8) How does Geographical area coverage of each country correlate with total cumulative GDP?
 
-Reason for this question is that it will give some insights whether countries that have large area coverage may have high GDP   as compared to those with small area coverage since potentially areas with large coverage may have more resources and may also provide room for expansion of business and investment especially in areas of Agriculture.
-
-In order to get my insights I utilised Tableau to plot a scatter plot where it gave me a clear findings based on the question.
-
+#### Reason for this question;
+ Analyzing the correlation between geographical area and total cumulative GDP provides insights into whether larger countries tend to have higher GDP due to greater resource availability and potential for business expansion, particularly in sectors like agriculture.
 
 
 
-
+To gain insights and answers to these questions, I leveraged the following data analysis tools: Excel, SQL, and Tableau. These tools facilitated my analysis and helped me arrive at comprehensive findings regarding investment opportunities in Africa.
 
 
 
 
-# Data Sources
+
+# Dataset
 
 The primary dataset used for this analysis is the "Africa_Economies.csv" file containing detailed information about each country and 
  GDP contribution of each sector.
 
 
 
-# Data Collection
+# Data Sourcing and Collection
 
-In Data Sourcing and collection I did manual research by searching for and gathering data from different websites and public databases like WorldBank Data since complete dataset was not readily available. I manually researched and recorded each piece of data by ensuring accuracy and reliability of the information by cross-referrencing different sources. Inputing data into Excel, I entered each data point manually ensuring that the information was organized correctly. This involved creating columns for different variables for example country, region, agriculture, renewable energy and filling in each row with the appropriate data. I structured the data in tabular format where each row represented a specific entry and each column represented a variable or a parameter.
+In Data Sourcing and collection I did manual research by searching for and gathering data from different websites and public databases like [WorldBankData](https://data.worldbank.org/) since complete dataset was not readily available. I manually researched and recorded each piece of data by ensuring accuracy and reliability of the information by cross-referrencing different sources. Inputing data into Excel, I entered each data point manually ensuring that the information was organized correctly. This involved creating columns for different variables for example country, region, agriculture, renewable energy and filling in each row with the appropriate data. I structured the data in tabular format where each row represented a specific entry and each column represented a variable or a parameter.
 
 # Data Analysis Tools that I used.
 
 
 ## EXCEL
-download [here](https://www.microsoft.com/en/microsoft-365/excel)
+
 
 
 I chose Excel for this project because it is a versatile and accessible tool that offers powerful features for data Exploration, Cleaning and Visualization. With Pivot tables I was able to summarize and analyze the data quickly by creating visualizations that enabled me to present my findings in a clear and impactful way making it easy to communicate insights that can be understood by  both technical and non technical individuals.
