@@ -163,8 +163,7 @@ I did data cleaning by removing duplicates using the remove duplicates option in
 
 I did data Formating to improve readability and usability of the data where I did number formating for currencies and putting them in $ dollar form together with custom to large numbers which was specifically Billions.
 
-Finally I used Excel Pivot tables to do quick summary to allow flexibility in analysis, I also created reports using Pivot charts and included use of slicers for interactive data exploration where I can quickly narrow down results to a specific region and country, through this I was able to make it easier to analyse and draw insights from my data. I was able to create a dashboard where I joined all the pivot charts and applied the slicer to connect to all charts for easy analysis and reporting. 
-# 
+
 
 ![Screenshot (41)](https://github.com/user-attachments/assets/7174c0f6-63f4-4aea-9b56-f579e75094f4)
 
@@ -173,16 +172,18 @@ Finally I used Excel Pivot tables to do quick summary to allow flexibility in an
 
 Below are some of the Visualizations that I made using pivot charts to communicate insights.
 
+![image](https://github.com/user-attachments/assets/f9dd0454-b689-474b-a0f5-10cc66ad3132)
 
 
-![image](https://github.com/user-attachments/assets/f26ae48b-dc72-4986-82a6-f2248ee7c5e6)
 
 
 #### A bar chart illustrating regional agricultural GDP contributions shows that Western Africa leads the sector with a contribution of $572.7 billion
 
+![image](https://github.com/user-attachments/assets/7d6462c8-3159-45e0-9a03-5fa487096d79)
 
 
-![image](https://github.com/user-attachments/assets/5f9f1141-6f1c-4307-a4ec-727960f98a99)
+
+
 
 
 
@@ -190,14 +191,16 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-![image](https://github.com/user-attachments/assets/942055c5-7958-4b26-835f-9a399bd531dd)
+![image](https://github.com/user-attachments/assets/5019c313-b7c3-47d5-89b8-4cb67bb41834)
+
+
 
 #### A line graph of GDP growth for the top 5 countries from 2021 to 2023 shows that Algeria and Cameroon have experienced significant economic growth, as indicated by their sharp rise in GDP. In contrast, Nigeria, South Africa, and Egypt have shown slower economic growth, with only slight increases in GDP over the period
 
 
 
 
-![image](https://github.com/user-attachments/assets/e8e15715-6617-4480-b7fd-88c342d25a61)
+![image](https://github.com/user-attachments/assets/c515a1d2-2d04-40e8-a55d-64c670fd75fd)
 
 
 #### A horizontal bar chart of renewable energy sector contributions by region shows Northern Africa leading with a total contribution of $44.2 Billion, surpassing the other four regions.
@@ -206,7 +209,9 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-![image](https://github.com/user-attachments/assets/33746f50-9f9e-4f17-9121-976f906908b5)
+![image](https://github.com/user-attachments/assets/3e52a02f-c8af-4451-a580-71f5aa9938bb)
+
+
 
 
 #### A bar chart illustrating the sum of regional GDP contributions for 2023 shows that Northern Africa leads among the five regions, with a total contribution of $1,382 Billion.
@@ -216,17 +221,18 @@ Below are some of the Visualizations that I made using pivot charts to communica
 Finally I used Excel Pivot tables to do quick summary to allow flexibility in analysis, I also created reports using Pivot charts and included use of slicers for interactive data exploration where I can quickly narrow down results to a specific region and country, through this I was able to make it easier to analyse and draw insights from my data. I was able to create a dashboard where I joined all the pivot charts and applied the slicer to connect to all charts for easy analysis and reporting. 
 
 
-#### The following is an image of how the final interactive dashboard looks like.
-![Screenshot (29)](https://github.com/user-attachments/assets/28cda1d6-240b-4760-8649-0e686c369d88)
+## The Excel Dashboard.
+![Screenshot (47)](https://github.com/user-attachments/assets/172a9daa-d82c-46ee-bec6-ecb76e619417)
 
 
 
-### Kindly Find the Interactive Dashboard on the files that i have uploaded for more visualization.
 
 
-## sql (postgresql)
 
-download [here](https://www.postgresql.org/download/)
+
+## SQL (postgresql)
+
+
 
 I chose SQL as a tool for my project because it allowed me to write custom queries to efficiently extract, manipulate and aggregate data from the table, sql provided scalability and flexibility I needed to derive meaningful insights.
 
@@ -304,58 +310,68 @@ LIMIT 1;
 
 ## TABLEAU
 
-download [here](https://public.tableau.com/en-us/s/)
 
-Finally I used Tableau to create reports and visualizations to communicate the insights in a easy manner that can be easily understood by both technical and non technical investors who want to get into the African countries growing markets for investment options and growth of Businesses.
+Finally, I used Tableau to create reports and visualizations that effectively communicate insights in a straightforward manner, making them accessible to both technical and non-technical investors interested in exploring the growing markets and investment opportunities in African countries
 
 
 
 I chose tableau for my project because it excels at creating dynamic and interactive visualizations. Tableau drag and drop interface makes it easy to quickly build and customize charts, graphs and dashboards which was crucial for effectively communicating the insights from my data.
 
 
-I used Tableau to create reports by first connecting to my data that I had cleaned and prepared using excel then I explored the data and visualized it to ensure that it is complete without any missing values. I created visualization by dragging and dropping fields from the data pane onto the Rows and Columns shelves to create charts. I created map chart for the continent of Africa that displays different african countries, I also did the same to create the bubble charts in the show me pane to display different regions of African continent, I also created a tree map where the reports are easily understood.I also used the marks card to adjust the details of my visualization such as color size and labels.
+I used Tableau to create reports by first connecting to the cleaned and prepared data from Excel. After ensuring the dataset was complete and free of missing values, I explored and visualized the data. To create charts, I simply dragged and dropped fields from the data pane onto the Rows and Columns shelves. I created a map chart for the African continent to display different countries, as well as bubble charts from the 'Show Me' pane to illustrate various regions. Additionally, I developed a tree map for a more intuitive understanding of the data.
 
-Finally I assembled all the charts into one interactive dashboard, adjusted the layout and size of the Dashboard. I made the Dashboard interactive by using the filters that allow to drill down into specific subsets of data especially the countries to get specific data. I formated the reports using the format in the menu where I changed fonts, borders and shading to make the reports more visually appealing. Then finally I published the report on Tableau public for easy view.
-
+I utilized the Marks card to refine my visualizations by adjusting details such as color, size, and labels. Finally, I assembled all the charts into one interactive dashboard, carefully adjusting its layout and size. I enhanced interactivity by adding filters that allow users to drill down into specific subsets of data, particularly for individual countries. To improve the visual appeal of the reports, I formatted them using the options in the menu to modify fonts, borders, and shading. Ultimately, I published the report on Tableau Public for easy access and viewing
 Here are the charts that I made using Tableau to communicate the insights and give reports.
 
 
-#### The Map Chart below gives report of the question about which country had the highest GDP 2023, in the map the coloring indicates the GDP of each country the darker the color indicates the highest GDP which is clearly shown that Algeria was the country with the highest GDP as of 2023 reports because the color in algeria is darker followed by Nigeria closely.
+
 ![Screenshot (19)](https://github.com/user-attachments/assets/d7926bd9-3f42-4601-911e-4d124d9b52a5)
+##### The Map Chart above gives report of the question about which country had the highest GDP 2023, in the map the coloring indicates the GDP of each country the darker the color indicates the highest GDP which is clearly shown that Algeria was the country with the highest GDP as of 2023 reports because the color in algeria is darker followed by Nigeria closely.
 
 
-#### The Bar Chart below shows  the report of regional cumulative GDP of 2023 that has been recorded for the past three years 2021,2022,2023 and the report shows that Northen Africa Region is the one with the highest cumulative GDP as of 2023.
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/a16b1736-21b1-4bf1-b6f5-7c3c5e0441ec)
+##### The Bar Chart above shows  the report of regional cumulative GDP of 2023 that has been recorded for the past three years 2021,2022,2023 and the report shows that Northen Africa Region is the one with the highest cumulative GDP as of 2023.
 
-
-
-#### The Chart below indicates sectoral GDP  contribution in each country where the focus was on which sector has contributed highest to the GDP of the country as of 2023 and for this case we have for Nigeria where it can be clearly seen that Agriculture is the sector that has immense support and contribution to the GDP of the country as of 2023.
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/496c463f-c86d-4533-a07e-523f143fc20b)
+##### The Chart above indicates sectoral GDP  contribution in each country where the focus was on which sector has contributed highest to the GDP of the country as of 2023 and for this case we have for Nigeria where it can be clearly seen that Agriculture is the sector that has immense support and contribution to the GDP of the country as of 2023.
 
-
-#### The packed Bubbles chart below gives a detailed report of regional agricultural contribution to the GDP of different regions of African continent, from the report it can be seen that Western Africa region is the leading in terms of GDP contribution followed by Eastern , Middle , Northen then lastly southern africa region has the lowest contribution of Agriculture towards the GDP maybe due to the hot climates of the southern Hemisphere.
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/4074f25c-cffa-4c9b-9588-a91d426106a0)
+##### The packed Bubbles chart above gives a detailed report of regional agricultural contribution to the GDP of different regions of African continent, from the report it can be seen that Western Africa region is the leading in terms of GDP contribution followed by Eastern , Middle , Northen then lastly southern africa region has the lowest contribution of Agriculture towards the GDP maybe due to the hot climates of the southern Hemisphere.
 
 
-#### Tree map below brings the reports of the contribution of Renewable Energy regionally where it can be seen that North Africa region is the leading in terms of renewable energy sectors followed closely by central then west then south and finally eastern Africa region being the lowest indicating any investments related to renewable energy should be tied to Northen Africa to realise a positive growth in the Business.
+
+
+
+
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/12299d89-650c-4939-9b11-4f4bc6501e9e)
+##### Tree map above brings the reports of the contribution of Renewable Energy regionally where it can be seen that North Africa region is the leading in terms of renewable energy sectors followed closely by central then west then south and finally eastern Africa region being the lowest indicating any investments related to renewable energy should be tied to Northen Africa to realise a positive growth in the Business.
 
 
-#### The Scatter plot below shows the correlation between population in African countries and cumulative GDP of each country where we can clearly see that countries with a higher population have a higher cumulative GDP. This is so important because for investors and businessmen may chooose countries with higher population because there is available market and also availability of labor which will make business operations easy.
+
+
 ![Screenshot (18)](https://github.com/user-attachments/assets/10908e60-a926-4765-ac49-b6e47e06fb08)
+##### The Scatter plot above shows the correlation between population in African countries and cumulative GDP of each country where we can clearly see that countries with a higher population have a higher cumulative GDP. This is so important because for investors and businessmen may chooose countries with higher population because there is available market and also availability of labor which will make business operations easy.
 
 
-### The Scatter plot below shows the correlation between Geographical area coverage and Total Cumulative GDP of each country. From the scatter plot we can see that there are some countries with larger area coverage but wiith a lower cumulative GDP and others with large coverage with a significantly higher GDP, this helps investors to decide which areas they can start their businesses in maybe based on region or even geopolitical issues in the country but mostly they need to invest in countries with large area coverage because of availability of space which will help in future expansion.
+
+
+
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/27997872-241e-40cc-883c-b2e42b543c2e)
+##### The Scatter plot above shows the correlation between Geographical area coverage and Total Cumulative GDP of each country. From the scatter plot we can see that there are some countries with larger area coverage but wiith a lower cumulative GDP and others with large coverage with a significantly higher GDP, this helps investors to decide which areas they can start their businesses in maybe based on region or even geopolitical issues in the country but mostly they need to invest in countries with large area coverage because of availability of space which will help in future expansion.
+
 
 ### The following is a picture of the final interactive dashboard I created using Tableau.
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/79dc52ff-2626-4010-aafa-a95c635852a5)
+
+
+
+
 
 
 #### Below is a Link to the interactive dashboard that I have Published in Tableau Public where more reports for individual sets can be got.
