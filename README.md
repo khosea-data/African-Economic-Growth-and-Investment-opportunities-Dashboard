@@ -138,20 +138,22 @@ I did the following using Excel in preparation of the data for Analysing
 
 I used conditional formating to highlight missing values and selected Blanks. I deleted some of the missing values after filtering them. I also filled some missing values with appropriate data based on the collection.
 
-![Screenshot (34)](https://github.com/user-attachments/assets/e5815c51-faee-4e07-848c-e8426955cae3)
+![Screenshot (44)](https://github.com/user-attachments/assets/47403395-940b-4dc9-bec6-b14f10363537)
 
 #### Data Cleaning
 
 I did data cleaning by removing duplicates using the remove duplicates option in the data tab. I standardized the data by changing the text cases using UPPER for upper case LOWER for lower case and PROPER to make the first letter to be in upper case. I also did CONCATENATION to combine texts especially in countries and those that had splitted during entry, I also did splitting using text to columns in data tab and finally I did data types conversion by using the excel inbuilt power query.
-![Screenshot (35)](https://github.com/user-attachments/assets/c9c83431-c846-47b6-abbf-03cd0f7e4eca)
+![Screenshot (42)](https://github.com/user-attachments/assets/fc0bfce1-4086-4638-bc0c-aaad2f007376)
+
+
+## 
+![Screenshot (43)](https://github.com/user-attachments/assets/6912bcfe-15d2-4e0e-9bb1-f79113b10c90)
+
 
 ## 
 
-![Screenshot (37)](https://github.com/user-attachments/assets/19411d8d-38a3-4d8c-89f6-75b0fdec10c6)
+![Screenshot (45)](https://github.com/user-attachments/assets/cb752bc6-543d-40d6-8fba-ee7baee9e0c0)
 
-## 
-
-![Screenshot (38)](https://github.com/user-attachments/assets/9d821eec-a1ae-4c2f-b09b-e85d52a7561a)
 
 ##
 
@@ -176,8 +178,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 ![image](https://github.com/user-attachments/assets/f26ae48b-dc72-4986-82a6-f2248ee7c5e6)
 
 
-## A bar chart of Regional agricultural GDP contribution where Western Africa is the leading in agriculture sectorwise with $572.7B
-
+#### A bar chart illustrating regional agricultural GDP contributions shows that Western Africa leads the sector with a contribution of $572.7 billion
 
 
 
@@ -185,14 +186,13 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-### A bar chart of 2023 GDP of each country where Algeria is at the top with the highest GDP among all the other countries by having $621B.
+#### A bar chart of 2023 GDP by country shows Algeria leading with the highest GDP at $621 Billion, surpassing all other countries.
 
 
 
 ![image](https://github.com/user-attachments/assets/942055c5-7958-4b26-835f-9a399bd531dd)
 
-### A line graph of GDP growth of Top 5 countries from 2021 to 2023, Algeria and Cameroon have experienced high economic growth in between the years as shown by their rise in GDP while Nigeria, South Africa and Egypt have shown slow economic growth in between the years as shown by their slight increase in the GDP.
-
+#### A line graph of GDP growth for the top 5 countries from 2021 to 2023 shows that Algeria and Cameroon have experienced significant economic growth, as indicated by their sharp rise in GDP. In contrast, Nigeria, South Africa, and Egypt have shown slower economic growth, with only slight increases in GDP over the period
 
 
 
@@ -200,8 +200,7 @@ Below are some of the Visualizations that I made using pivot charts to communica
 ![image](https://github.com/user-attachments/assets/e8e15715-6617-4480-b7fd-88c342d25a61)
 
 
-### A horizontal bar chart of Renewable Energy sector contribution per REGION, The result show that Northen Africa is the leading among all the five regions with a total contribution of $44.2B.
-
+#### A horizontal bar chart of renewable energy sector contributions by region shows Northern Africa leading with a total contribution of $44.2 Billion, surpassing the other four regions.
 
 
 
@@ -210,15 +209,14 @@ Below are some of the Visualizations that I made using pivot charts to communica
 ![image](https://github.com/user-attachments/assets/33746f50-9f9e-4f17-9121-976f906908b5)
 
 
-### A bar chart of Sum of Regional 2023 GDP contribution where Northen Africa is seen to be the leading among the five regions with a total sum of $1382B.
-
+#### A bar chart illustrating the sum of regional GDP contributions for 2023 shows that Northern Africa leads among the five regions, with a total contribution of $1,382 Billion.
 
 
 
 Finally I used Excel Pivot tables to do quick summary to allow flexibility in analysis, I also created reports using Pivot charts and included use of slicers for interactive data exploration where I can quickly narrow down results to a specific region and country, through this I was able to make it easier to analyse and draw insights from my data. I was able to create a dashboard where I joined all the pivot charts and applied the slicer to connect to all charts for easy analysis and reporting. 
-# 
 
-### The following is an image of how the final interactive dashboard looks like.
+
+#### The following is an image of how the final interactive dashboard looks like.
 ![Screenshot (29)](https://github.com/user-attachments/assets/28cda1d6-240b-4760-8649-0e686c369d88)
 
 
