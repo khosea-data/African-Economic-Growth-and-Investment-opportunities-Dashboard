@@ -299,7 +299,7 @@ ORDER BY Total_Renewable_Energy_Contribution DESC;
 6.
 
 ```sql
-     SELECT Region, SUM(GDP_2023) AS Cumulative_GDP_2023
+SELECT Region, SUM(GDP_2023) AS Cumulative_GDP_2023
 FROM Africa_economies
 GROUP BY Region
 ORDER BY Cumulative_GDP_2023 DESC
