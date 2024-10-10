@@ -172,14 +172,14 @@ I did data Formating to improve readability and usability of the data where I di
 
 Below are some of the Visualizations that I made using pivot charts to communicate insights.
 
-![image](https://github.com/user-attachments/assets/f9dd0454-b689-474b-a0f5-10cc66ad3132)
+![agrulture](https://github.com/user-attachments/assets/708cf581-f0f7-4cc9-a7e6-e7ba9dc0830f)
 
 
 
 
 #### A bar chart illustrating regional agricultural GDP contributions shows that Western Africa leads the sector with a contribution of $572.7 billion
 
-![image](https://github.com/user-attachments/assets/7d6462c8-3159-45e0-9a03-5fa487096d79)
+![country gdp](https://github.com/user-attachments/assets/aca6eeee-92d6-4db8-9b03-6f8183fcf74e)
 
 
 
@@ -191,7 +191,8 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-![image](https://github.com/user-attachments/assets/5019c313-b7c3-47d5-89b8-4cb67bb41834)
+![growth](https://github.com/user-attachments/assets/6123ae78-50ca-4149-a945-29e16bc5417e)
+
 
 
 
@@ -200,7 +201,8 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-![image](https://github.com/user-attachments/assets/c515a1d2-2d04-40e8-a55d-64c670fd75fd)
+![renewable energy](https://github.com/user-attachments/assets/39bb4941-bb77-4747-939d-b6a673779de1)
+
 
 
 #### A horizontal bar chart of renewable energy sector contributions by region shows Northern Africa leading with a total contribution of $44.2 Billion, surpassing the other four regions.
@@ -209,7 +211,8 @@ Below are some of the Visualizations that I made using pivot charts to communica
 
 
 
-![image](https://github.com/user-attachments/assets/3e52a02f-c8af-4451-a580-71f5aa9938bb)
+![highest regional gdp](https://github.com/user-attachments/assets/929c39bf-d80e-4031-85d8-8ae7f408d149)
+
 
 
 
@@ -222,7 +225,7 @@ Finally I used Excel Pivot tables to do quick summary to allow flexibility in an
 
 
 ## The Excel Dashboard.
-![Screenshot (47)](https://github.com/user-attachments/assets/172a9daa-d82c-46ee-bec6-ecb76e619417)
+![Screenshot (49)](https://github.com/user-attachments/assets/5f1aca12-fbf2-423b-80d2-ffc578b92450)
 
 
 
