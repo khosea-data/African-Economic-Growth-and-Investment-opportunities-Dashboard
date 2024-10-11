@@ -327,21 +327,24 @@ I utilized the Marks card to refine my visualizations by adjusting details such 
 Here are the charts that I made using Tableau to communicate the insights and give reports.
 
 
+![Screenshot (55)](https://github.com/user-attachments/assets/1ba4a9d7-81bb-4361-845f-59d31f951b45)
 
-![Screenshot (19)](https://github.com/user-attachments/assets/d7926bd9-3f42-4601-911e-4d124d9b52a5)
 ##### The Map Chart above gives report of the question about which country had the highest GDP 2023, in the map the coloring indicates the GDP of each country the darker the color indicates the highest GDP which is clearly shown that Algeria was the country with the highest GDP as of 2023 reports because the color in algeria is darker followed by Nigeria closely.
 
 
 
-![Screenshot (22)](https://github.com/user-attachments/assets/a16b1736-21b1-4bf1-b6f5-7c3c5e0441ec)
+![Screenshot (51)](https://github.com/user-attachments/assets/12c64809-99b5-4fec-ab84-c7eb9090f8c9)
+
 ##### The Bar Chart above shows  the report of regional cumulative GDP of 2023 that has been recorded for the past three years 2021,2022,2023 and the report shows that Northen Africa Region is the one with the highest cumulative GDP as of 2023.
 
 
-![Screenshot (13)](https://github.com/user-attachments/assets/496c463f-c86d-4533-a07e-523f143fc20b)
+![Screenshot (54)](https://github.com/user-attachments/assets/7814287a-5f0a-4f2c-a2f4-63f3c90221a5)
+
 ##### The Chart above indicates sectoral GDP  contribution in each country where the focus was on which sector has contributed highest to the GDP of the country as of 2023 and for this case we have for Nigeria where it can be clearly seen that Agriculture is the sector that has immense support and contribution to the GDP of the country as of 2023.
 
 
-![Screenshot (25)](https://github.com/user-attachments/assets/4074f25c-cffa-4c9b-9588-a91d426106a0)
+![Screenshot (56)](https://github.com/user-attachments/assets/4fa379d1-6076-475a-bdcf-ec8992fcdc76)
+
 ##### The packed Bubbles chart above gives a detailed report of regional agricultural contribution to the GDP of different regions of African continent, from the report it can be seen that Western Africa region is the leading in terms of GDP contribution followed by Eastern , Middle , Northen then lastly southern africa region has the lowest contribution of Agriculture towards the GDP maybe due to the hot climates of the southern Hemisphere.
 
 
@@ -350,8 +353,9 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 
 
-![Screenshot (21)](https://github.com/user-attachments/assets/12299d89-650c-4939-9b11-4f4bc6501e9e)
-##### Tree map above brings the reports of the contribution of Renewable Energy regionally where it can be seen that North Africa region is the leading in terms of renewable energy sectors followed closely by central then west then south and finally eastern Africa region being the lowest indicating any investments related to renewable energy should be tied to Northen Africa to realise a positive growth in the Business.
+![Screenshot (57)](https://github.com/user-attachments/assets/cd52d052-c0b9-4927-bc84-290980722f59)
+
+##### bar chart above brings the reports of the contribution of Renewable Energy regionally where it can be seen that North Africa region is the leading in terms of renewable energy sectors followed closely by central then west then south and finally eastern Africa region being the lowest indicating any investments related to renewable energy should be tied to Northen Africa to realise a positive growth in the Business.
 
 
 
@@ -370,7 +374,7 @@ Here are the charts that I made using Tableau to communicate the insights and gi
 
 ### The following is a picture of the final interactive dashboard I created using Tableau.
 
-![Screenshot (26)](https://github.com/user-attachments/assets/79dc52ff-2626-4010-aafa-a95c635852a5)
+![Screenshot (50)](https://github.com/user-attachments/assets/6818c213-d0e7-40a7-b0ab-d0e0516511c7)
 
 
 
